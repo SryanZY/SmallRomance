@@ -1,3 +1,4 @@
+// 定义canvas的宽高
 function resize(width, height , canvases){
 	if(!/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
 		const body = document.querySelectorAll('body')[0];

@@ -49,6 +49,7 @@ import TitleParticle from './TitleParticle'
 			audio.volume = 0.5;
 			const music = document.querySelector('#music');
 
+			// 微信内置浏览器私有接口
 			document.addEventListener("WeixinJSBridgeReady", function () { 
 		        audio.play(); 
 		    }, false);

@@ -10,9 +10,8 @@ class Particle {
 		this.opacity = opacity;
 	}
 
-	outOfBounds (height = config.height,width = config.width){
+	outOfBounds (height = config.height, width = config.width){
 		if(this.x >= -this.size && this.x <= width && this.y <= height && this.y >= -this.size) return false;
-
 		return true;
 	}
 
