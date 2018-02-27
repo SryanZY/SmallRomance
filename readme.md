@@ -3,7 +3,7 @@
 
 ### 快速预览
 
-访问[github.io网站](https://sryanzy.github.io/SmallRomance/dist/index.html)
+访问 [github.io网站](https://sryanzy.github.io/SmallRomance/dist/index.html)
 
 
 ### 开发者调试
