@@ -55,13 +55,15 @@ const config = (function(){
 		},
 		// type对应上面的color与font  若没有对应的 则默认为color1或font1
 		dialogue:[
-			{type:6, name:'男子', txt:'你那有打火机吗？'},
-			{type:2, name:'女子', txt:'没有呀～'},
-			{type:6, name:'男子', txt:'那你是怎么点燃我的心的？'},
-			{type:2, name:'女子', txt:'可是我的心还没有被你点燃呀。'},
-			{type:6, name:'男子', txt:'别慌，我去买个打火机先。'},
-			{type:2, name:'女子', txt:'打火机可不能点燃我的心。'},
-			{type:6, name:'男子', txt:'天快黑了，我要为你点燃整片天空。'},
+			{type:6, name:'SryanZY', txt:'你那有打火机吗？'},
+			{type:2, name:'Dora', txt:'没有呀～'},
+			{type:6, name:'SryanZY', txt: '那你是怎么点燃我的心的？'},
+			{type:2, name:'Dora', txt:'用冰棍杆^'},
+			{type:2, name:'Dora', txt:'可是我的心还没有被你点燃呀。'},
+			{type:6, name:'SryanZY', txt:'别慌，我去买个打火机先。'},
+			{type:2, name:'Dora', txt: '打火机可不能点燃我的心。' },
+			{type:6, name:'SryanZY', txt:'那就用火柴！'},
+			{type:6, name:'SryanZY', txt:'天快黑了，我要为你点燃整片天空。'},
 
 		],
 		// 阶段二
