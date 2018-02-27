@@ -1,13 +1,9 @@
 # SmallRomance
 
 
-**要是觉得这个项目还不错，别忘记star哦**
-
-
 ### 快速预览
-访问[这个网站](http://lingyouhuiquanla.com/lover/)  国内网站
 
-或者访问[github.io网站](https://newnewking.github.io/SmallRomance/)
+或者访问[github.io网站](https://sryanzy.github.io/SmallRomance/dist/index.html)
 
 
 ### 开发者调试
@@ -69,5 +65,6 @@ npm run build
 
 [fireworks seen in the countryside](https://codepen.io/K-T/pen/NjyNQy?q=fireworks&limit=all&type=type-pens)
 
----
+---   
+** 要是觉得这个项目还不错，别忘记star哦 **
 **licensed under MIT LISENCE**
