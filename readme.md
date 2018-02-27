@@ -3,7 +3,7 @@
 
 ### 快速预览
 
-或者访问[github.io网站](https://sryanzy.github.io/SmallRomance/dist/index.html)
+访问[github.io网站](https://sryanzy.github.io/SmallRomance/dist/index.html)
 
 
 ### 开发者调试
@@ -66,5 +66,6 @@ npm run build
 [fireworks seen in the countryside](https://codepen.io/K-T/pen/NjyNQy?q=fireworks&limit=all&type=type-pens)
 
 ---   
-** 要是觉得这个项目还不错，别忘记star哦 **
+**要是觉得这个项目还不错，别忘记star哦**   
+
 **licensed under MIT LISENCE**
