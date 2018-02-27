@@ -87,7 +87,7 @@ const config = (function(){
 		// hue:210 lightness 0
 		skyColor:'hsla({hue}, 60%, {lightness}%, 0.2)',	
 		fireOpt: {
-			wordInterval: 3000, //每段话出现的间隔时间
+			wordInterval: 2000, //每段话出现的间隔时间
 		},
 	
 		//阶段四
